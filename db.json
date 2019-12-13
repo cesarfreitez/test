@@ -1,29 +1,25 @@
 {
   "Ficha":[
     {
-      "id": 1,
       "rut":26981227-3,
       "nombre":"Cesar",
       "apellido":"Freitez",
       "fecha_nacimiento":"16-12-1994"
     },
     {
-      "id": 2,
-      "rut":26981227-3,
+      "rut":26981227-4,
       "nombre":"Andres",
       "apellido":"Linares",
       "fecha_nacimiento":"16-12-1994"
     },
     {
-      "id": 3,
-      "rut":26981227-3,
+      "rut":26981227-5,
       "nombre":"Antonio",
       "apellido":"Freitez",
       "fecha_nacimiento":"16-12-1994"
     },
     {
-      "id": 4,
-      "rut":26981227-3,
+      "rut":26981227-6,
       "nombre":"Antonio",
       "apellido":"Linares",
       "fecha_nacimiento":"16-12-1994"
