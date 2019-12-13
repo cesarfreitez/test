@@ -1,0 +1,28 @@
+{
+  "Ficha":[
+    {
+      "rut":"26981227-3",
+      "nombre":"Cesar",
+      "apellido":"Freitez",
+      "fecha_nacimiento":"16-12-1994"
+    },
+    {
+      "rut":"26981227-3",
+      "nombre":"Andres",
+      "apellido":"Linares",
+      "fecha_nacimiento":"16-12-1994"
+    },
+    {
+      "rut":"26981227-3",
+      "nombre":"Antonio",
+      "apellido":"Freitez",
+      "fecha_nacimiento":"16-12-1994"
+    },
+    {
+      "rut":"26981227-3",
+      "nombre":"Antonio",
+      "apellido":"Linares",
+      "fecha_nacimiento":"16-12-1994"
+    }
+  ]
+}
